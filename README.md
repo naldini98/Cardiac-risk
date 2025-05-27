@@ -4,9 +4,11 @@
 Autor: Franco Naldini
 
 📌 ¿Qué hace este proyecto?
+
 Desarrollé un modelo predictivo de machine learning que analiza factores clínicos para evaluar el riesgo de enfermedades cardiovasculares, con:
 
 🔍 Módulo de Diagnóstico Predictivo
+
 Análisis automatizado de 14 variables médicas (edad, colesterol, presión arterial, etc.).
 
 Clasificación de riesgo:
